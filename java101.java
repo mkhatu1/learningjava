@@ -14,6 +14,7 @@ public class java101 {
         System.out.println("Type your last name: ");
         input.next();
         input.close();
+        
 
 
     }

@@ -1,0 +1,8 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.console.closeOnEnd": true,
+    "debug.terminal.clearBeforeReusing": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.suggest.showStatusBar": true
+}
